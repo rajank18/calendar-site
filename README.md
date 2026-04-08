@@ -1,18 +1,13 @@
-# Desk Calendar Site
+# Calendar Site
 
-A handcrafted desk-style calendar web app built with React and Vite.
+A handcrafted calendar web app built with React and Vite.
 
 The app combines a wall-calendar layout with sticky notes, month navigation, range selection, local persistence, theme switching, and decorative desk elements (polaroid, analog clock, and audio player).
 
 ## Screenshot
 
-Add your screenshot file and keep this path:
-
-`docs/site-screenshot.png`
-
-Then this preview will work automatically:
-
-![Desk Calendar Site Screenshot](docs/site-screenshot.png)
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/574118b6-12f0-4595-b87b-e7a5b4a74d7b" />
+<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/02bc2611-5f51-4b55-8263-5f6efe04d59a" />
 
 ## Features
 
